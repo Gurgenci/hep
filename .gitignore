@@ -1,0 +1,6 @@
+*.pyc
+tmp
+pop
+.ipynb_checkpoints
+dist
+
